@@ -1,0 +1,14 @@
+/opt/lampp/htdocs/dot net/hellomvc/bin/Debug/netcoreapp2.1/hellomvc.deps.json
+/opt/lampp/htdocs/dot net/hellomvc/bin/Debug/netcoreapp2.1/hellomvc.runtimeconfig.json
+/opt/lampp/htdocs/dot net/hellomvc/bin/Debug/netcoreapp2.1/hellomvc.runtimeconfig.dev.json
+/opt/lampp/htdocs/dot net/hellomvc/bin/Debug/netcoreapp2.1/hellomvc.dll
+/opt/lampp/htdocs/dot net/hellomvc/bin/Debug/netcoreapp2.1/hellomvc.pdb
+/opt/lampp/htdocs/dot net/hellomvc/obj/Debug/netcoreapp2.1/hellomvc.csprojAssemblyReference.cache
+/opt/lampp/htdocs/dot net/hellomvc/obj/Debug/netcoreapp2.1/hellomvc.csproj.CoreCompileInputs.cache
+/opt/lampp/htdocs/dot net/hellomvc/obj/Debug/netcoreapp2.1/hellomvc.RazorAssemblyInfo.cache
+/opt/lampp/htdocs/dot net/hellomvc/obj/Debug/netcoreapp2.1/hellomvc.RazorAssemblyInfo.cs
+/opt/lampp/htdocs/dot net/hellomvc/obj/Debug/netcoreapp2.1/hellomvc.AssemblyInfoInputs.cache
+/opt/lampp/htdocs/dot net/hellomvc/obj/Debug/netcoreapp2.1/hellomvc.AssemblyInfo.cs
+/opt/lampp/htdocs/dot net/hellomvc/obj/Debug/netcoreapp2.1/hellomvc.RazorTargetAssemblyInfo.cache
+/opt/lampp/htdocs/dot net/hellomvc/obj/Debug/netcoreapp2.1/hellomvc.dll
+/opt/lampp/htdocs/dot net/hellomvc/obj/Debug/netcoreapp2.1/hellomvc.pdb
